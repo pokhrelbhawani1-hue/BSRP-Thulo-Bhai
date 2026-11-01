@@ -5,7 +5,7 @@
 
 **YouTube Demo (Final with Bhajan + English Subtitles):** https://youtu.be/Fgv10UKKWgY
 
-**Live Demo (Vercel):🚀 Live Demo: https://bsrp-thulo-bhai-hnhn.vercel.app/
+**Live Demo (Vercel):🚀 Live Demo:** https://bsrp-thulo-bhai-hnhn.vercel.app/
 
 **Meta Global AI Hackathon - Startup Track - Build for Your World**
 
