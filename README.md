@@ -1,11 +1,11 @@
-🚀 Live Demo: https://bsrp-thulo-bhai-hnhn.vercel.app/
+
 
 # BSRP Old Age Home AI Smart Care Pvt. Ltd. - Thulo Bhai
 ### म ठूलो भाइ, तपाइको छोरो/नाती | AI होइन, ठूलो भाइ!
 
 **YouTube Demo (Final with Bhajan + English Subtitles):** https://youtu.be/Fgv10UKKWgY
 
-**Live Demo (Vercel):** Coming soon - will update
+**Live Demo (Vercel):🚀 Live Demo: https://bsrp-thulo-bhai-hnhn.vercel.app/
 
 **Meta Global AI Hackathon - Startup Track - Build for Your World**
 
