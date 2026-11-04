@@ -4,6 +4,7 @@
 ### म ठूलो भाइ, तपाइको छोरो/नाती | AI होइन, ठूलो भाइ!
 
 **YouTube Demo (Final with Bhajan + English Subtitles):** https://youtu.be/Fgv10UKKWgY
+https://youtube.com/shorts/tHDAfjhSaI4?si=BMwSuf6plo6NDzOv
 
 **Live Demo (Vercel):🚀 Live Demo:** https://bsrp-thulo-bhai-hnhn.vercel.app/
 
