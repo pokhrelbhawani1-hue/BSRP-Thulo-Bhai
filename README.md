@@ -16,9 +16,9 @@ https://youtube.com/shorts/tHDAfjhSaI4?si=BMwSuf6plo6NDzOv
 
 ## Problem - Real Visit at BSRP Old Age Home, Biratnagar, Nepal
 
-- **Location:** BSRP Old Age Home, Biratnagar
+- **Location:** BSRP Old Age Home,koshi province, Nepal
 - **Real Problem Found:** 3 staff for 20 elders, fall remains undetected for 10 minutes
-- **Real Elder:** Somraj Pokhrel, 85 years - Real fall demo footage
+- **Real Elder:** Somraj Pokhrel, 77 years - Real fall demo footage
 - **Emotional Problem:** Elders feel lonely, no family at night, need "Choro/Nati" not AI
 
 We visited BSRP, saw jali door, blue floor, bed on floor, elders sleeping alone. Fall detection was 10 min late. Family gets no update.
@@ -30,8 +30,8 @@ We visited BSRP, saw jali door, blue floor, bed on floor, elders sleeping alone.
 **Core Idea:** AI is not AI, it's Thulo Bhai. Elder calls "Bhai", Thulo Bhai calls "Buwa".
 
 **Persona - 11/10 - Age Based Addressing:**
-- 60-75 yrs: "म ठूलो भाइ, तपाइको छोरो" - Son
-- 75-85 yrs: "म ठूलो भाइ, तपाइको नाती" - Grandson  
+- 60-79 yrs: "म ठूलो भाइ, तपाइको छोरो" - Son
+- 80-85 yrs: "म ठूलो भाइ, तपाइको नाती" - Grandson  
 - Voice: "Buwa, pani khanuhuncha? Ma lyaidiu hai" and Elder replies "Pani Bhai, pani"
 
 ## Tech Stack - 150/150
@@ -69,14 +69,14 @@ We visited BSRP, saw jali door, blue floor, bed on floor, elders sleeping alone.
 - **Efficiency:** 3 staff : 20 elders = 1:6.6, AI makes 1:20 = 3x efficient
 - **Transparency:** 100% family gets WhatsApp alert
 - **Persona:** 11/10 - Age based Choro/Nati, Buwa/Bhai voice distinction
-- **Real Demo:** Real BSRP footage, Real elder Somraj Pokhrel 85yrs, Bhajan background, English subtitles
+- **Real Demo:** Real BSRP footage, Real elder Somraj Pokhrel 77 yrs, Bhajan background, English subtitles
 
 ## Demo Video Timeline - Final 150/150
 
 - 0-5 sec: BSRP Visit - Jali door, blue floor - Problem: 3 staff, 20 elders, 10 min undetected
 - 5-10 sec: Room empty, need AI Smart Care
 - 10-18 sec: Meet Thulo Bhai AI - Dhaka Topi photo - Tagline: AI Hoina, Thulo Bhai - "Thulo Bhai AI ra Naya Sathi haru"
-- 18-23 sec: Elder Somraj 85yrs trying to stand from chair, fall incident real demo
+- 18-23 sec: Elder Somraj 77 yrs trying to stand from chair, fall incident real demo
 - 23-25 sec: SAM 3.1 Fall Detection - Emergency Screen - Somraj Pokhrel fallen at 2:31 PM Oct 31 2026
 - 25-28 sec: Elder on floor struggling, Phone notification - Emergency Alert to Family via WhatsApp
 - 28-33 sec: Elder safe stands up smiling - Thulo Bhai: "Buwa, pani?" Elder: "Pani Bhai, pani" - AI is family not tech
@@ -86,7 +86,7 @@ We visited BSRP, saw jali door, blue floor, bed on floor, elders sleeping alone.
 - **Company:** BSRP Old Age Home AI Smart Care Pvt. Ltd.
 - **Model:** B2B - Old Age Homes in Nepal - $20-30 per elder per month
 - **Market:** 200+ Old Age Homes in Nepal, 3 staff problem everywhere
-- **Team:** Bhawani Pokhrel, Biratnagar, Nepal
+- **Team:** Bhawani Pokhrel, koshi province, Nepal
 - **Cost:** $375 credits for 3 month trial at BSRP
 
 ## How to Run
@@ -103,10 +103,10 @@ python thulo_bhai_agent.py --persona age_based --voice nepali --loop
 
 - YouTube Final: https://youtu.be/Fgv10UKKWgY
 - GitHub: This repo
-- Live Demo: Coming soon on Vercel
+- Live Demo: Vercel
 
 ## Tagline
 
 **AI होइन, ठूलो भाइ! म ठूलो भाइ, तपाइको छोरो/नाती!**
 
-Made with love for BSRP Old Age Home, Biratnagar, Nepal
+Made with love for BSRP Old Age Home, koshi province, Nepal
